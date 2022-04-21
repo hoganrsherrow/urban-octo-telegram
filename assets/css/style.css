@@ -1,9 +1,51 @@
+/*Element Selectors Start*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+body {
+    background-color: #d9dcd6;
+}
+/*Element Selectors End*/
+/*Utility Classes*/
 
+
+/*Utility Classes End */
+
+/*Header Style Start*/
+
+
+/*Header Style End*/
+
+/*Hero Style Start*/
+
+
+/*Hero Style End*/
+
+/*Content Section Style Start*/
+
+
+/*Content Section Style End*/
+
+
+
+/*Benefits Section Style Start*/
+
+
+/*Benefits Section Style End*/
+
+
+/*Footer Style Start*/
+
+
+/*Footer Style End*/
+
+
+
+
+
+/*
 body {
     background-color: #d9dcd6;
 }
@@ -198,3 +240,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+*/
