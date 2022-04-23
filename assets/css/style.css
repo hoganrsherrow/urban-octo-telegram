@@ -11,7 +11,6 @@ p {
     font-size: 16px;
 }
 /*Element Selectors End*/
-
 /*Utility Classes*/
 .font-1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,7 +27,6 @@ p {
     margin-left: 25px;
 }
 /*Utility Classes End */
-
 /*Header Style Start*/
 header {
     padding: 20px;
@@ -60,7 +58,6 @@ header nav ul li a {
     text-decoration: none;
 }
 /*Header Style End*/
-
 /*Hero Style Start*/
 .hero {
     height: 800px;
@@ -71,7 +68,6 @@ header nav ul li a {
     background-position: center;
 }
 /*Hero Style End*/
-
 /*Content Section Style Start*/
 .content {
     width: 75%;
@@ -92,10 +88,7 @@ header nav ul li a {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
 /*Content Section Style End*/
-
 /*Benefits Section Style Start*/
 .benefits {
     margin-right: 20px;
@@ -119,13 +112,16 @@ header nav ul li a {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /*Benefits Section Style End*/
-
-
 /*Footer Style Start*/
-
-
+footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+footer h2 {
+    font-size: 20px;
+}
 /*Footer Style End*/
 
 
